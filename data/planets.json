@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Sol",
+    "radiusKm": 696340,
+    "distanceFromSunKm": 0,
+    "orbitalPeriodDays": 0,
+    "textureUrl": "textures/sun.jpg"
+  },
+  {
+    "name": "Mercurio",
+    "radiusKm": 2439.7,
+    "distanceFromSunKm": 57909227,
+    "orbitalPeriodDays": 88,
+    "textureUrl": "textures/mercury.jpg"
+  },
+  {
+    "name": "Venus",
+    "radiusKm": 6051.8,
+    "distanceFromSunKm": 108209475,
+    "orbitalPeriodDays": 224.7,
+    "textureUrl": "textures/venus.jpg"
+  },
+  {
+    "name": "Tierra",
+    "radiusKm": 6371,
+    "distanceFromSunKm": 149598262,
+    "orbitalPeriodDays": 365.25,
+    "textureUrl": "textures/earth.jpg"
+  },
+  {
+    "name": "Marte",
+    "radiusKm": 3389.5,
+    "distanceFromSunKm": 227943824,
+    "orbitalPeriodDays": 687,
+    "textureUrl": "textures/mars.jpg"
+  },
+  {
+    "name": "Júpiter",
+    "radiusKm": 69911,
+    "distanceFromSunKm": 778340821,
+    "orbitalPeriodDays": 4331,
+    "textureUrl": "textures/jupiter.jpg"
+  },
+  {
+    "name": "Saturno",
+    "radiusKm": 58232,
+    "distanceFromSunKm": 1426666422,
+    "orbitalPeriodDays": 10747,
+    "textureUrl": "textures/saturn.jpg"
+  },
+  {
+    "name": "Urano",
+    "radiusKm": 25362,
+    "distanceFromSunKm": 2870658186,
+    "orbitalPeriodDays": 30589,
+    "textureUrl": "textures/uranus.jpg"
+  },
+  {
+    "name": "Neptuno",
+    "radiusKm": 24622,
+    "distanceFromSunKm": 4498396441,
+    "orbitalPeriodDays": 59800,
+    "textureUrl": "textures/neptune.jpg"
+  }
+]
